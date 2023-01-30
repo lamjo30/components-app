@@ -31,7 +31,7 @@
           <div class="flex lg:flex-1">
             <a href="#" class="-m-1.5 p-1.5">
               <span class="sr-only">Your Company</span>
-              <img class="h-8" src="~~/assets/img/ICONO.png" alt="Company" />
+              <img class="h-10" src="~~/assets/img/horizontal.png" alt="Company" />
             </a>
           </div>
           <div class="flex lg:hidden">

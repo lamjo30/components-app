@@ -7,3 +7,5 @@
     <Layout/>
   <!-- Layout-end -->
 </template>
+<style>
+</style>

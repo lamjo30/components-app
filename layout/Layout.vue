@@ -14,7 +14,7 @@
     <!-- Dashboard-End -->
 
     <!-- Sidebar-Start -->
-        <SideBar/>
+        <!-- <SideBar/> -->
     <!-- Sidebar-End -->
 
     <!-- Footer-Start -->
