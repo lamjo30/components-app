@@ -9,13 +9,13 @@
         <Header/>
     <!-- Header-End -->
 
-    <!-- Sidebar-Start -->
-        <SideBar/>
-    <!-- Sidebar-End -->
-    
     <!-- Dashboard-Start -->
         <Form/>
     <!-- Dashboard-End -->
+
+    <!-- Sidebar-Start -->
+        <SideBar/>
+    <!-- Sidebar-End -->
 
     <!-- Footer-Start -->
 
