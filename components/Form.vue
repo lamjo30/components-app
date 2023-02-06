@@ -1,6 +1,6 @@
 <template>
     <div>
-      <div class="md:grid sm:grid-cols-5 md:grid-cols-6 md:gap-4">
+      <div class="md:grid sm:grid-cols-6 md:grid-cols-6 md:gap-4">
         <div class="md:col-span-1">
           <div class="px-4 sm:px-0">
             <SideBar/>
@@ -37,7 +37,7 @@
                         <path d="M24 20.993V24H0v-2.996A14.977 14.977 0 0112.004 15c4.904 0 9.26 2.354 11.996 5.993zM16.002 8.999a4 4 0 11-8 0 4 4 0 018 0z" />
                       </svg>
                     </span>
-                    <button type="button" class="ml-5 rounded-md border border-gray-300 bg-white py-2 px-3 text-sm font-medium leading-4 text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">Change</button>
+                    <button type="button" class="ml-5 rounded-md border border-gray-300 bg-white py-2 px-3 text-sm font-medium leading-4 text-gray-700 shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">Save</button>
                   </div>
                 </div>
   
